@@ -9,13 +9,11 @@ gration with MySQL for database management.
 
 ## Features 
 
-- Student and Company Registration
-- Job Posting and Application
-- Interview Scheduling
-- Placement Offer Management
-- Communication Tools (Email notifications, messaging)
-- Reporting and Analytics
-- User Management and Access Control
+- **Student Database Management:** Storing and managing student information, including academic records, skills, resumes, and contact details.Company.
+- **Database Management:** Maintaining a database of potential employers, their contact details, and recruitment criteria.
+- **Event Scheduling:** Organizing campus recruitment drives, training sessions, seminars, and workshops with automated scheduling and reminders.
+- **Training Programs:** Managing and tracking various training programs, including technical skills, soft skills, and mock interviews.
+- **Placement Tracking:** Monitoring and reporting on placement statistics, including offers made, companies visiting, and students placed.
 
 ## Frontend 
 - HTML
