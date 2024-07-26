@@ -51,8 +51,8 @@ gration with MySQL for database management.
 - Open XAMPP Control panal and start [apache] and [mysql] .
 - Download project from github(https://github.com/rldinkar/Placement-Portal).
 OR follow gitbash commands
-- i> cd C:\xampp\htdocs\
-- ii> git clone https://github.com/rldinkar/Placement-Portal
+- > cd C:\xampp\htdocs\
+- > git clone https://github.com/rldinkar/Placement-Portal
 - Extract files in C:\xampp\htdocs.
 - Open link localhost/phpmyadmin
 - Click on new at side navbar.
