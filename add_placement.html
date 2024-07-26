@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Placement</title>
+    <link rel="stylesheet" href="nav_style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">        
+</head>
+<body>
+    <div>
+        <div>
+        <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
+            <a class="navbar-brand" href="index.html">Placement Portal</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="add_student.html">Add Student</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="add_company.html">Add Company</a>
+                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="add_placement.html">Add Placement</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="add_training_program.html">Add Programs</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="logout.php">Logout</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="form-container">
+            <h1>Add Placement</h1>
+            <form action="add_placement.php" method="post">
+                <div class="form-group">
+                    <label for="company_name">Company Name:</label>
+                    <input type="text" class="form-control" id="company_name" name="company_name" required>
+                </div>
+                <div class="form-group">
+                    <label for="student_id">Student ID:</label>
+                    <input type="number" class="form-control" id="student_id" name="student_id" required>
+                </div>
+                <div class="form-group">
+                    <label for="role">Role:</label>
+                    <input type="text" class="form-control" id="role" name="role" required>
+                </div>
+                <div class="form-group">
+                    <label for="placement_date">Placement Date:</label>
+                    <input type="date" class="form-control" id="placement_date" name="placement_date" required>
+                </div>
+                <div class="form-group">
+                    <label for="placement_type">Placement Type:</label>
+                    <input type="text" class="form-control" id="placement_type" name="placement_type" required>
+                </div>
+                <div class="form-group center-button">
+                    <button type="submit" class="btn btn-primary" name="submit">Submit</button>
+                    <a href="read_placement.php" class="btn btn-secondary btn-update">Update</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
