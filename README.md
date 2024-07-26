@@ -9,6 +9,14 @@ gration with MySQL for database management.
 
 ## Features 
 
+- Student and Company Registration
+- Job Posting and Application
+- Interview Scheduling
+- Placement Offer Management
+- Communication Tools (Email notifications, messaging)
+- Reporting and Analytics
+- User Management and Access Control
+
 ## Frontend 
 - HTML
 - CSS
