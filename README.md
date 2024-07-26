@@ -67,5 +67,4 @@ OR follow gitbash commands
 - Click on new at side navbar.
 - Give a database name as (placement_portal) hit on create button.
 - After creating database name click on import.
-- Browse the file in directory [placement-portal/database/db1.sql].
 - Open any browser and type http://localhost/placement-portal.
