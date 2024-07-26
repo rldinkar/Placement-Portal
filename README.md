@@ -4,10 +4,6 @@
 
 ## Features 
 
-## Links
-
-## Tech Stack 
-
 ## Frontend 
 
 ## Backend 
