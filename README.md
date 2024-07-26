@@ -47,5 +47,5 @@ gration with MySQL for database management.
 
 ## Video 
 
-[![Watch the video](https://via.placeholder.com/150)](videos/VID-20240726-WA0002.mp4)
+[![Watch the video](https://via.placeholder.com/150)](VID-20240726-WA0002.mp4)
 
