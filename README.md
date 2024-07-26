@@ -35,9 +35,9 @@ gration with MySQL for database management.
 
 ## Team members 
 
-**Rachana Dinkar: rldinkar_b22@it.vjti.ac.in**
+**Rachana Dinkar: rldinkar11@gmail.com**
 
-**Sayali Khandare: sckhandare_b22@it.vjti.ac.in**
+**Sayali Khandare: sayalisayali924@gmail.com**
 
 ## Screenshots
 
