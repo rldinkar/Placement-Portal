@@ -35,6 +35,8 @@ gration with MySQL for database management.
 
 ## Application 
 
+> To facilitate easy communication between students, companies, and the TPO. Enables students to apply for jobs and
+> internships, and book interviews at convenient times without much concern about scheduling conflicts.
 ## Usages 
 
 ## Team members 
