@@ -52,7 +52,7 @@ gration with MySQL for database management.
 ![Screenshot](https://github.com/rldinkar/Placement-Portal/blob/main/Screenshot_2024-07-26-19-19-16-039_com.google.android.apps.docs-edit.jpg)
 ## Video 
 
-[Click Here](VID-20240726-WA0002.mp4)
+[Click Here ](https://github.com/rldinkar/Placement-Portal/blob/main/VID-20240726-WA0002.mp4)
 
 ## GETTING STARTED
  
