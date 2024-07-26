@@ -9,11 +9,13 @@ gration with MySQL for database management.
 
 ## Features 
 
-- **Student Database Management:** Storing and managing student information, including academic records, skills, resumes, and contact details.Company.
-- **Database Management:** Maintaining a database of potential employers, their contact details, and recruitment criteria.
-- **Event Scheduling:** Organizing campus recruitment drives, training sessions, seminars, and workshops with automated scheduling and reminders.
-- **Training Programs:** Managing and tracking various training programs, including technical skills, soft skills, and mock interviews.
-- **Placement Tracking:** Monitoring and reporting on placement statistics, including offers made, companies visiting, and students placed.
+- Separate Login Page For Admin, Coordinater and Student Interactive Dashboard.
+- Coordinater can Update the drive and check the applied and modify accordingly
+- Admin can Approve and reject request of All type of registration
+- Admin can post notice to all students and coordinater separately
+- Upload technical papers
+- View Student and Company Profile
+- Interactive Contact us Page
 
 ## Frontend 
 - HTML
@@ -25,10 +27,6 @@ gration with MySQL for database management.
 
 ## Databases 
 - MySQL
-
-## Progress 
-
-**Fully Implemented Features**
 
 ## Application 
 
@@ -47,3 +45,18 @@ gration with MySQL for database management.
 
 [Click Here](VID-20240726-WA0002.mp4)
 
+## GETTING STARTED
+ 
+- Install XAMPP or WAMPP.
+- Open XAMPP Control panal and start [apache] and [mysql] .
+- Download project from github(https://github.com/rldinkar/Placement-Portal).
+OR follow gitbash commands
+- i> cd C:\xampp\htdocs\
+- ii> git clone https://github.com/rldinkar/Placement-Portal
+- Extract files in C:\xampp\htdocs.
+- Open link localhost/phpmyadmin
+- Click on new at side navbar.
+- Give a database name as (placement_portal) hit on create button.
+- After creating database name click on import.
+- Browse the file in directory [placement-portal/database/db1.sql].
+- Open any browser and type http://localhost/placement-portal.
