@@ -47,7 +47,7 @@ gration with MySQL for database management.
 
 ![Screenshot](https://github.com/rldinkar/Placement-Portal/blob/main/Screenshot_2024-07-26-19-14-17-864_com.google.android.apps.docs-edit.jpg)
 
-![Screenshot]()
+![Screenshot](https://github.com/rldinkar/Placement-Portal/blob/main/Screenshot_2024-07-26-19-17-10-867_com.google.android.apps.docs-edit.jpg)
 
 ![Screenshot]()
 ## Video 
