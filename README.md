@@ -54,7 +54,7 @@ gration with MySQL for database management.
 
 [Click Here ](https://github.com/rldinkar/Placement-Portal/blob/main/VID-20240726-WA0002.mp4)
 
-## GETTING STARTED
+## Getting Started 
  
 - Install XAMPP or WAMPP.
 - Open XAMPP Control panal and start [apache] and [mysql] .
